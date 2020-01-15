@@ -1,0 +1,27 @@
+table {
+    width: 100%;
+border-style: none;
+border-spacing: 30px;
+border: 15px;
+table-layout: fixed;
+  }
+  #color1{
+      background-color: #4FFF33;
+      height: 20px;
+  }
+  #color2{
+      background-color:#FF4633;
+      height: 240px;
+  }
+  #color3{
+      background-color:rgba(195, 209, 0, 0.781);
+      height: 140px;
+  }
+  #color4{
+      background-color: #CBA29E;
+      height: 80px;
+  }
+tr{
+    text-align: center;
+border-color: white;
+}
